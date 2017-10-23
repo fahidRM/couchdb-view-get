@@ -1,2 +1,4 @@
-# couchdb-view-get
-Reads couched views and stores them in a folder structure readable by couched-bootstrap
+couchdb-view-get
+----------------
+
+Grabs coucdb views and drops them into a folder

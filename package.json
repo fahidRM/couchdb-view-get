@@ -1,0 +1,32 @@
+{
+  "name": "couchdb-view-get",
+  "version": "0.0.1",
+  "description": "Pulls down CouchDB views and arranges them in a folder structure that is usable by couchdb-bootstrap",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahidRM/couchdb-view-get.git"
+  },
+  "keywords": [
+    "couchdb",
+    "couchdb",
+    "views"
+  ],
+  "author": "fahidRM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahidRM/couchdb-view-get/issues"
+  },
+  "homepage": "https://github.com/fahidRM/couchdb-view-get#readme",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "request": "^2.83.0",
+    "requests": "^0.2.2"
+  }
+}
